@@ -1,0 +1,105 @@
+
+.divTable{
+	display: table;
+	width: 100%;
+}
+.divTableRow {
+	display: table-row;
+}
+.divTableHeading {
+	background-color: #EEE;
+	display: table-header-group;
+}
+.divTableCell, .divTableHead {
+	border: 1px solid #999999;
+	display: table-cell;
+	padding: 3px 10px;
+	vertical-align: middle;
+}
+
+.divTableCellHead {
+	border: 1px solid #999999;
+	display: table-cell;
+	padding: 3px 10px;
+	background: #A0A0A0;
+}
+.divTableHeading {
+	background-color: #EEE;
+	display: table-header-group;
+	font-weight: bold;
+}
+.divTableFoot {
+	background-color: #EEE;
+	display: table-footer-group;
+	font-weight: bold;
+}
+.divTableBody {
+	display: table-row-group;
+}
+
+.index {
+	width: 60%;
+	height: 60%;
+	margin: 0 auto;
+	text-align: center;
+	padding: 20px 0;
+	
+}
+
+.butt {
+	padding: 50px;
+
+}
+
+.form_butt {
+	display: inline-block;
+	margin: 50px;
+}
+
+.nadzorca {
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
+	border: solid 1px;
+}
+
+.laborant {
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
+	border: solid 1px;
+}
+
+.f_nadz_form{
+margin: 30px 0;
+
+}
+
+.nadz_form{
+	margin-bottom: 30px;
+}
+
+.doswww {
+	width: 80%;
+	margin: 10px auto;
+	text-align: center;
+	border: solid 1px;
+}
+
+.trw_dos {
+	width: 95%;
+	margin: 10px auto;
+	text-align: center;
+}
+
+.wyniki_dos {
+	width: 95%;
+	margin: 10px auto;
+	text-align: center;
+}
+
+.hist_dos {
+	width: 95%;
+	margin: 10px auto;
+	text-align: center;
+}
